@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer | React & Next.js Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+modern+web+apps;React+%26+Next.js+fan;Passionate+about+UI+and+animations" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=500&color=FFC0CB&center=true&vCenter=true&width=600&lines=Building+modern+web+apps;React+%26+Next.js+fan;Passionate+about+UI+and+animations" alt="Typing SVG"/>
 </p>
 
 ---
@@ -48,5 +48,5 @@
 
 ## 🌐 Website
 <p align="center">
-  <a href="https://Tahminerahbar.com"><img src="https://img.shields.io/badge/Website-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://Tahminerahbar.com"><img src="https://img.shields.io/badge/Website-FFC0CB?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
