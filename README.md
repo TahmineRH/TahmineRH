@@ -7,6 +7,14 @@
 
 ---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TahmineRH&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TahmineRH&theme=radical" />
+</p>
+
+---
+
 ## 🚀 About Me
 - 💻 Building **modern and interactive web apps** using React & Next.js
 - 🎨 Passionate about **UI/UX design and animations**
