@@ -37,6 +37,6 @@
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://Tahminerahbar.com"><img src="https://img.shields.io/badge/Website-FFC0CB?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://Tahminerahbar.com/projects"><img src="https://img.shields.io/badge/Projects-FF69B4?style=for-the-badge&logo=gitbook&logoColor=white" /></a>
-  <a href="mailto:tahmine.rahbar79@gmail.com"><img src="https://img.shields.io/badge/Email-FF1493?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://Tahminerahbar.com/projects"><img src="https://img.shields.io/badge/Projects-FF8A9D?style=for-the-badge&logo=gitbook&logoColor=white" /></a>
+  <a href="mailto:tahmine.rahbar79@gmail.com"><img src="https://img.shields.io/badge/Email-FF5C77?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
