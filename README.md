@@ -28,11 +28,8 @@
 ## 🌟 Projects
 
 <p align="center">
-  <a href="https://github.com/yourusername/project1">
+  <a href="https://github.com/TahmineRH/Liquid-Glass">
     <img src="https://media.giphy.com/media/26xBMu39F7K3FZ7Ti/giphy.gif" width="250" alt="Project 1"/>
-  </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://media.giphy.com/media/3o7aD4HqZd0e63O38g/giphy.gif" width="250" alt="Project 2"/>
   </a>
 </p>
 
@@ -46,7 +43,9 @@
 
 ---
 
-## 🌐 Website
+## 🌐 Connect with Me
 <p align="center">
   <a href="https://Tahminerahbar.com"><img src="https://img.shields.io/badge/Website-FFC0CB?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://Tahminerahbar.com/projects"><img src="https://img.shields.io/badge/Projects-FF69B4?style=for-the-badge&logo=gitbook&logoColor=white" /></a>
+  <a href="mailto:tahmine.rahbar79@gmail.com"><img src="https://img.shields.io/badge/Email-FF1493?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
